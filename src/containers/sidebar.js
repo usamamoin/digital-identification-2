@@ -28,7 +28,7 @@ class SideBar extends Component {
                 <View style={styles.top}>
                     {/* <Text style={styles.heading}>App </Text> */}
                     <Text style={{ fontSize: getAdjustedFontSize(18) }}>
-                        ORDER MANAGEMENT
+                        Digital Identity
                     </Text>
                 </View>
                 <View style={styles.body}>
